@@ -1,0 +1,2 @@
+rootProject.name='EkranTasarim'
+include ':app'
